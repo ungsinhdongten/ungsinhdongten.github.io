@@ -54,9 +54,7 @@ jobs:
       - name: Move to repo
         run: cd ungsinhdongten.github.io
       - name: Pull latest
-        run: |
-          git checkout main
-          git pull origin main
+        run: git pull origin main
       - name: copy artifact
         run: cp -a .vitepress/dist/. .
       - name: Commit artifact
