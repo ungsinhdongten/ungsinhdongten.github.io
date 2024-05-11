@@ -2,7 +2,7 @@
 title: Ngày 18/01, Chân phước An-rê Phú Yên - Bổn mạng cộng đoàn An-rê
 date: 2024-01-19 00:00:00 +7
 category: nhaungsinh
-preview_image: 1HKGSNSF7_7N8IJA.jpg
+preview_image: anre1.jpg
 prev:
   text: Ngày tri ân quý ân nhân của anh em ứng sinh miền Bắc
   link: /chiase/20240115002-ngay-tri-an-quy-an-nhan-cua-anh-em-ung-sinh-mien-bac
@@ -12,7 +12,7 @@ next:
 ---
 
 <script setup>
-import anre from "/images/chiase/1HKGSNSF7_7N8IJA.jpg?w=900";
+import anre from "/images/chiase/anre1.jpg?w=900";
 </script>
 
 <Figure 

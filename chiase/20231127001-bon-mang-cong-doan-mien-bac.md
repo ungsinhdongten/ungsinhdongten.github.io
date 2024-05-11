@@ -2,7 +2,7 @@
 title: Ngày 23/11, Chân phước Miquel Augustin Pro S.J. - Bổn mạng cộng đoàn ứng sinh miền Bắc
 date: 2023-11-27 00:00:00 +7
 category: congdoan
-preview_image: 1HG81RJHP_7N8IJA.jpg
+preview_image: mienbac1.jpg
 prev:
   text: Tri Thức Nâng Cánh Ước Mơ
   link: /chiase/20231118001-tri-thuc-nang-canh-uoc-mo
@@ -12,7 +12,7 @@ next:
 ---
 
 <script setup>
-import mienbac from '/images/chiase/1HG81RJHP_7N8IJA.jpg?w=900';
+import mienbac from '/images/chiase/mienbac1.jpg?w=900';
 </script>
 
 <Figure 

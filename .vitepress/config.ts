@@ -19,10 +19,7 @@ export default defineConfig({
     title: siteTitle,
     description: siteDescription,
     cleanUrls: true,
-    vite: { 
-        plugins: [ imagetools() ],
-        ssr: { noExternal: ['vitepress-plugin-testcomponents'] }
-    },
+    vite: { plugins: [ imagetools() ] },
     appearance: false,
     srcExclude: ["readme.md"],
     themeConfig: {
