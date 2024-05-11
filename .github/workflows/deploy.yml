@@ -54,10 +54,10 @@ jobs:
       - name: Move to repo
         run: cd ungsinhdongten.github.io
       - name: copy artifact
-        run: cp -a .vitepress/dist/. .
+        run: cp -a .vitepress/dist/. ungsinhdongten.github.io/
       - name: Commit artifact
         run: |
-          git add .
+          git add ungsinhdongten.github.io/.
           git commit -m "update website"
       - name: Upload artifact
         run: |
