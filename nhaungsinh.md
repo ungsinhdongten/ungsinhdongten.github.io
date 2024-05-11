@@ -1,5 +1,5 @@
 ---
-title: Ứng sinh có gì?
+title: Ứng sinh có gì ?
 ---
 <script setup>
 import nnl from '/images/ungsinh/nnl.jpg?w=900';
@@ -8,11 +8,11 @@ import inha from '/images/ungsinh/inha.jpg?w=900';
 import linhthao from '/images/ungsinh/lt.jpeg?w=900';
 </script>
 
-*Tôi được sinh ra để sống cho những gì cao quý hơn". Thánh Stanislao Kostka*
+*Tôi được sinh ra để sống cho những gì cao quý hơn" Thánh Stanislao Kostka.*
 
-🔥Đã bao giờ bạn sống ở 1 nơi hoàn toàn mới?
+🔥 Đã bao giờ bạn sống ở một nơi hoàn toàn mới ?
 
-🔥Đã bao giờ bạn nghĩ rằng mình sẽ gia nhập 1 hội dòng không ?
+🔥 Đã bao giờ bạn nghĩ rằng mình sẽ gia nhập 1 hội dòng không ?
 
 [![Một ngày sống của Ứng sinh Dòng Tên](images/ungsinh/video.png)](https://youtu.be/89W7P7E6Tbw)
 

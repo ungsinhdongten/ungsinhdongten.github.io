@@ -21,6 +21,7 @@ export default defineConfig({
     cleanUrls: true,
     vite: { plugins: [ imagetools() ] },
     appearance: false,
+    srcExclude: ["readme.md"],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -28,8 +29,7 @@ export default defineConfig({
             { text: 'Nhà Ứng Sinh', link: '/nhaungsinh' },
             { text: 'Ban huấn huyện', link: '/bhl' },
             { text: 'Chia sẻ', link: '/chiase' },
-            { text: 'Tĩnh tâm định hướng', link: '/ttdh' },
-            { text: 'Liên hệ', link: '/about' }
+            { text: 'Liên hệ', link: '/lienhe' }
         ],
         outline: false,
         aside: false,

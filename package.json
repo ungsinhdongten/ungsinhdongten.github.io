@@ -9,7 +9,7 @@
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
-  "author": "Minh-Khoi Le-Nguyen",
+  "author": "Minh-Khoi Le-NguyenG",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.5",
