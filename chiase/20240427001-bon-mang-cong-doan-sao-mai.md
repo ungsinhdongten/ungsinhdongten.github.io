@@ -2,7 +2,7 @@
 title: Ngày 27/04, Thánh Phê-rô Canisio SJ, LM, TSHT - Bổn mạng cộng đoàn Sao Mai
 date: 2024-04-27 00:00:00 +7
 category: nhaungsinh
-preview_image: /images/chiase/440873996_822214396604126_261689539469948071_n.jpeg?w=900
+preview_image: 440873996_822214396604126_261689539469948071_n.jpeg
 prev:
   text: Tông đồ truyền giáo
   link: /chiase/20240421001-tong-do-truyen-giao
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240507001-tinh-tam-dinh-huong
 ---
 
+<script setup>
+import saomai from "/images/chiase/440873996_822214396604126_261689539469948071_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/440873996_822214396604126_261689539469948071_n.jpeg?w=900"
+    :src=saomai
     caption="Cộng đoàn Sao Mai."
 />
 

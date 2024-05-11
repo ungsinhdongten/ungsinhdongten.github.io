@@ -2,7 +2,7 @@
 title: Tông đồ người nghèo
 date: 2024-04-05 00:00:00 +7
 category: tongdo
-preview_image: /images/chiase/434722452_807927624699470_1401660827694395698_n.jpeg?w=900
+preview_image: 434722452_807927624699470_1401660827694395698_n.jpeg
 prev:
   text: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Năm 2024
   link: /chiase/20240402001-tinh-tam-dinh-huong
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240412001-tong-do-tri-thuc
 ---
 
+<script setup>
+import nguoingheo from "/images/chiase/434722452_807927624699470_1401660827694395698_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/434722452_807927624699470_1401660827694395698_n.jpeg?w=900"
+    :src=nguoingheo
     caption="Tông đồ người nghèo."
 />
 

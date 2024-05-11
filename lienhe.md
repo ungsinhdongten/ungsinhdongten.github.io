@@ -1,5 +1,5 @@
 ---
-title: Liên hệ
+title: Đến mà xem
 ---
 
 Nếu bạn là những người nam, Công Giáo, tuổi từ 17, có sức khỏe tốt, ao ước phụng sự Chúa, phục vụ con người trong Giáo Hội Công Giáo qua Dòng Tên,
@@ -34,5 +34,5 @@ Nếu bạn là những người nam, Công Giáo, tuổi từ 17, có sức kh�
 ### Miền Bắc
 
 * ⛪️ Nhà thờ Giáo Xứ Ngọc Mạch – Số 357 Xuân Phương, quận Nam Từ Liêm, Hà Nội
-* ✝️ Linh mục phụ trách ơn gọi:  **Giu-se Vũ Chí Thành, S.J.**
-    * ☎️ 0967 420 405
+* ✝️ Linh mục phụ trách ơn gọi:  
+    * **Giu-se-Tuân Vũ Chí Thành, S.J.** - ☎️ 0967 420 405

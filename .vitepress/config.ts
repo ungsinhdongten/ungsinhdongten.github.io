@@ -33,7 +33,7 @@ export default defineConfig({
         ],
         outline: false,
         aside: false,
-        logo: 'images/ungsinh/logo.jpeg',
+        logo: '/logo.jpeg',
         socialLinks: [
             { icon: 'facebook', link: 'https://www.facebook.com/nhaungsinhdongten/' },
             { icon: 'youtube', link: 'https://www.youtube.com/@sjcandidate' },

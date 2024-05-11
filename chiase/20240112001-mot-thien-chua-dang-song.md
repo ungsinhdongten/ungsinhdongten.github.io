@@ -2,7 +2,7 @@
 title: Một Thiên Chúa đang sống
 date: 2024-01-12 00:00:00 +7
 category: tongdo
-preview_image: /images/chiase/IMG_3103.jpg?w=900
+preview_image: IMG_3103.jpg
 prev:
   text: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Một 2024
   link: /chiase/20240105001-tinh-tam-dinh-huong
@@ -11,9 +11,12 @@ next:
   link: /chiase/20240115001-nghe-nhin-va-cam-thay-niem-vui-cua-su-song
 ---
 
+<script setup>
+import haidong from '/images/chiase/IMG_3103.jpg?w=900';
+</script>
 
 <Figure 
-    src="/images/chiase/IMG_3103.jpg?w=900"
+    :src=haidong
     caption="Chúa Giê-su Hài Đồng và trẻ em"
 />
 

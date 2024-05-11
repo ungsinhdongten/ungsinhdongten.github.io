@@ -2,7 +2,7 @@
 title: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Một 2024
 date: 2024-01-05 00:00:00 +7
 category: ongoi
-preview_image: /images/chiase/IMG_5069.JPG?w=900
+preview_image: IMG_5069.jpg
 prev:
   text: 23/11, Chân phước Miquel Augustin Pro S.J. - Bổn mạng cộng đoàn ứng sinh miền Bắc
   link: /chiase/20231127001-bon-mang-cong-doan-mien-bac
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240115001-nghe-nhin-va-cam-thay-niem-vui-cua-su-song
 ---
 
+<script setup>
+import tinhtam from '/images/chiase/IMG_5069.jpg?w=900';
+</script>
+
 <Figure 
-    src="/images/chiase/IMG_5069.JPG?w=900"
+    :src=tinhtam
     caption="Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Một 2024."
 />
 

@@ -2,7 +2,7 @@
 title: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Hai 2024
 date: 2024-01-29 00:00:00 +7
 category: ongoi
-preview_image: /images/chiase/bg02.jpg?w=900
+preview_image: bg02.jpg
 prev:
   text: Ngày 18/01, Chân phước An-rê Phú Yên - Bổn mạng cộng đoàn An-rê
   link: /chiase/20240119001-bon-mang-cong-doan-an-re-phu-yen
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240226001-langnghe
 ---
 
+<script setup>
+import tinhtam from "/images/chiase/bg02.jpg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/bg02.jpg?w=900"
+    :src=tinhtam
     caption="Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Hai 2024."
 />
 

@@ -1,7 +1,7 @@
 ---
 title: Ngày 31/10, Thánh Alphonso Rodriguez S.J. - Bổn mạng cộng đoàn Vườn Dâu 1
 date: 2023-10-31 00:00:00 +7
-preview_image: /images/chiase/unnamed.png?w=900
+preview_image: unnamed.png?w=900
 category: congdoan
 prev:
   text: Phục vụ từ những điều giản đơn
@@ -11,12 +11,17 @@ next:
   link: /chiase/20231118001-tri-thuc-nang-canh-uoc-mo
 ---
 
+
+<script setup>
+import vuondau from '/images/chiase/unnamed.png?w=900';
+</script>
+
 Alphonso sinh ngày 25 tháng 7 năm 1532 ở Segovia, Tây Ban Nha, con của một người buôn bán len sợi giầu có. Khi còn nhỏ, Alphonso thường gặp Cha Peter Favre (sau này được phong chân phước) và một linh mục dòng Tên khác, họ là những người thường tạm trú qua đêm ở nhà cha của Alphonso. Dần dà, chính Cha Peter Favre là người đã chuẩn bị cho Alphonso rước lễ lần đầu.
 
 Suốt đời thầy Anphong Rodriguez chưa bao giờ đặt chân đến Rôma. Nhưng ngày 15/01/1888, mãi 357 năm sau khi thầy chào đời, thầy đã được đón tiếp trọng thể hơn bất kỳ vị tướng lãnh nào trở về Rôma sau khi chiến thắng khải hoàn. Buổi sáng Chúa Nhật hôm đó, Đức Lêô XIII long trọng ghi tên thầy Anphong Rodriguez vào sổ bộ các thánh. 
 
 <Figure 
-    src="/images/chiase/unnamed.png?w=900"
+    :src=vuondau
     caption="Cộng đoàn Vườn Dâu 1."
 />
 

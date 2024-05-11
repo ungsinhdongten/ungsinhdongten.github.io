@@ -2,7 +2,7 @@
 title: Tông đồ truyền giáo
 date: 2024-04-21 00:00:00 +7
 category: tongdo
-preview_image: /images/chiase/438254231_818432613648971_8233707618809346532_n.jpeg?w=900
+preview_image: 438254231_818432613648971_8233707618809346532_n.jpeg
 prev:
   text: Tông đồ tri thức
   link: /chiase/20240412001-tong-do-tri-thuc
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240427001-bon-mang-cong-doan-sao-mai
 ---
 
+<script setup>
+import truyengiao from "/images/chiase/438254231_818432613648971_8233707618809346532_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/438254231_818432613648971_8233707618809346532_n.jpeg?w=900"
+    :src=truyengiao
     caption="Tông đồ truyền giáo."
 />
 

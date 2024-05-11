@@ -2,7 +2,7 @@
 title: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Ba 2024
 date: 2024-03-06 00:00:00 +7
 category: ongoi
-preview_image: /images/chiase/431678794_789749489850617_6931020432857412183_n.jpeg?w=900
+preview_image: 431678794_789749489850617_6931020432857412183_n.jpeg
 prev:
   text: Thiên Chúa nơi việc học
   link: /chiase/20240227001-thien-chua-noi-viec-hoc
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240226001-langnghe
 ---
 
+<script setup>
+import tinhtam from "/images/chiase/431678794_789749489850617_6931020432857412183_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/431678794_789749489850617_6931020432857412183_n.jpeg?w=900"
+    :src=tinhtam
     caption="Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Ba 2024."
 />
 

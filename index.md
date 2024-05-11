@@ -12,29 +12,36 @@ import {
 
 import StartLayout from '.vitepress/theme/layouts/StartLayout.vue';
 
+
+import nhanban from '/images/phuongdien/nb.jpg';
+import thienglieng from '/images/phuongdien/tl.jpg';
+import congdoan from '/images/phuongdien/cd.jpg';
+import trithuc from '/images/phuongdien/tt.jpg';
+import tongdo from '/images/phuongdien/td.jpg';
+
 const members = [
   {
-    avatar: 'images/phuongdien/nb.jpg',
+    avatar: nhanban,
     name: 'Nhân bản',
     title: 'Đào tạo ứng sinh nên một con người trưởng thành. Ứng sinh cần cố gắng để có được trí năng tốt, ý chí vững vàng, quân bình tâm lí và sức khỏe tốt.',
   },
   {
-    avatar: 'images/phuongdien/tl.jpg',
+    avatar: thienglieng,
     name: 'Thiêng liêng',
     title: 'Giúp ứng sinh nhận biết và có một tình yêu cá vị với Đức  Giê-su Ki-tô. Từ đó, ứng sinh lắng nghe tiếng Chúa mời gọi và xác tín ơn gọi sống của mình.',
   },
   {
-    avatar: 'images/phuongdien/cd.jpg',
+    avatar: congdoan,
     name: 'Cộng đoàn',
     title: 'Giúp ứng sinh có khả năng sống chung và cộng tác với người khác với tinh thần quảng đại, rộng mở và khiêm tốn phục vụ.',
   },
   {
-    avatar: 'images/phuongdien/tt.jpg',
+    avatar: trithuc,
     name: 'Tri thức',
     title: 'Giúp ứng sinh trau dồi kiên thức để có thể phục vụ Chúa và các linh hồn một cách hữu hiệu và đắc lực hơn.',
   },
   {
-    avatar: 'images/phuongdien/td.jpg',
+    avatar: tongdo,
     name: 'Tông đồ',
     title: 'Giúp ứng sinh có tinh thần tông đồ theo phương thế dòng Tên.',
   }

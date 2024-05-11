@@ -2,7 +2,7 @@
 title: Ngày tri ân quý ân nhân của anh em ứng sinh miền Bắc
 date: 2024-01-15 01:00:00 +7
 category: nhaungsinh
-preview_image: /images/chiase/NHI_0533.JPG?w=900
+preview_image: NHI_0533.jpg
 prev:
   text: Nghe, Nhìn Và Cảm Thấy Niềm Vui Của Sự Sống
   link: /chiase/20240115001-nghe-nhin-va-cam-thay-niem-vui-cua-su-song
@@ -11,9 +11,12 @@ next:
   link: /chiase/20240119001-bon-mang-cong-doan-an-re-phu-yen
 ---
 
+<script setup>
+import giamdoc from "/images/chiase/NHI_0533.jpg?w=900";
+</script>
 <Figure 
-    src="/images/chiase/NHI_0533.JPG?w=900"
-    caption="Cha Giám đốc Giu-se Vũ Chí Thành."
+    :src=giamdoc
+    caption="Cha Giu-se-Tuân Vũ Chí Thành."
 />
 
 Năm Phụng vụ bắt đầu với Mùa Vọng, mùa chuẩn bị mừng đại lễ Chúa Giáng sinh. Đây cũng là mùa cho mỗi người được nhìn lại hành trình sống trong suốt một năm. Dẫu có vui buồn, thành công hay thất bại thì chúng ta cũng đều dâng lời cảm tạ với biết bao hồng ân mà Chúa đã dành cho ta. Trong tâm tình ấy, cộng đoàn Ứng sinh Dòng Tên miền Bắc hân hoan mừng ngày tri ân quý ân nhân tại giáo xứ Hàng Bột.

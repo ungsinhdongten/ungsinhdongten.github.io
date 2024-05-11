@@ -2,7 +2,7 @@
 title: Nghe, Nhìn Và Cảm Thấy Niềm Vui Của Sự Sống
 date: 2024-01-15 00:00:00 +7
 category: tongdo
-preview_image: /images/chiase/z5072631119765_536aeb5bc9e17938183b2bfe786c23b2.webp?w=900
+preview_image: z5072631119765_536aeb5bc9e17938183b2bfe786c23b2.webp
 prev:
   text: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Một 2024
   link: /chiase/20240105001-tinh-tam-dinh-huong
@@ -32,7 +32,7 @@ Tôi nhìn thấy một con đường nhiều đất đỏ dẫn vào ngôi làn
 Dưới tán rừng cao su, trước một đống lửa nhỏ, tôi thấy con người chìm vào trong màn đêm với việc nhiệm vụ của mình, thành thục và luôn hy vọng. Người anh em của tôi thật sự tốt đấy, anh ấy kể cho tôi nghe vài câu chuyện của anh ấy, tôi đã nghe và hiểu người bạn này hơn. Chúng tôi cùng nhau làm hang đá, mỗi ông có một sáng kiến, nhưng lại hội nhất trong nhau, 15 cái hang đá, chúng tôi có rất nhiều việc cần làm. Người dân tại mỗi sóc ấy nô nức, hào hứng giúp chúng tôi, họ kể cho chúng tôi những khoảng thời gian đã qua. Mỗi tối, chúng tôi cùng cha xứ tham dự các giờ kinh tại các sóc, đó như một sự kết nối lạ kỳ, hội tụ quanh bàn thờ Chúa trong kia có một tà thần khác trong nhà “cây nêu,” tôi có sợ không, vừa sợ lại vừa không, vì còn có một “cái cây” to hơn nữa trong bầu không khí ngột ngạt u ám ấy. Tôi chìm đắm mình trước sự hiện diện của Thánh Thể mỗi cuối tuần, như một cách thức lắng nghe và hồi tưởng lại những hình ảnh đã qua. “Sao thầy buồn vậy ?” Tôi vừa lắng nghe một cuộc điện thoại, tôi nhìn vào trong tâm tư, tình cảnh của người đó, tôi đã lo lắng.
 
 <Figure :src="image3" caption="Ánh lửa giữa rẫy." />
-<Figure :src="image4" caption="đọc kinh bên Hang Đá." />
+<Figure :src="image4" caption="Đọc kinh bên Hang Đá." />
 
 Có đôi chút ảnh hưởng, nhưng vì sự kiện này khiến tôi đi sâu vào mầu nhiệm “Nhập Thể” : vì yêu mà có tất cả. “Yêu không sợ khổ, không sợ lỗ; Yêu là khiến người mình yêu tốt hơn.” Hình ảnh một vị cha xứ chu đáo, nhiệt thành đến kỳ lạ, vì yêu. Tôi có những người bạn mới trên vùng đất đó: đó là những đứa trẻ tại nhà xứ, đứa bé cạnh nhà, những cô bé múa giỏi, đôi khi có chút phiền, nhưng quy chung chúng thật vui tươi trẻ chung. Tôi còn một công việc đặc biệt: có nhiều bệnh nhân đến với tôi, tôi có chút khả năng cho việc y tế này. Lắng nghe những “đứa con” của tôi, nghe “chúng” kể lại bệnh tình của mình.
 
@@ -42,7 +42,7 @@ Tôi thấy một Đêm Giao Thừa trên mảnh đất biên giới ấy, yên 
 
 Tại Đồng Tâm, có một hành trình khác chúng tôi đã tham gia. Cùng đi vào thế giới tự nhiên, lắng nghe tiếng nói của Chúa trong đó. Sự hiện hữu của mọi vật chính là cách thức tôn vinh Thiên Chúa cao đẹp nhất, nhưng thật tốt khi chúng là sinh hoa trái như Chúa muốn.
 
-<Figure :src="image4" caption="Thánh lễ trên Địa Cầu của anh em Dòng Tên tại Lộc Ninh." />
+<Figure :src="image6" caption="Thánh lễ trên Địa Cầu của anh em Dòng Tên tại Lộc Ninh." />
 
 THÁNG TÔNG ĐỒ – GIÁO XỨ LỘC HÒA – GP. PHÚ CƯỜNG
 

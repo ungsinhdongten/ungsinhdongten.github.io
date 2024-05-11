@@ -2,7 +2,7 @@
 title: Tông đồ tri thức 
 date: 2024-04-12 00:00:00 +7
 category: tongdo
-preview_image: /images/chiase/435891269_812846627540903_886548902243287485_n.jpeg?w=900
+preview_image: 435891269_812846627540903_886548902243287485_n.jpeg
 prev:
   text: Tông đồ người nghèo
   link: /chiase/20240405001-tong-do-nguoi-ngheo
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240421001-tong-do-truyen-giao
 ---
 
+<script setup>
+import trithuc from "/images/chiase/435891269_812846627540903_886548902243287485_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/435891269_812846627540903_886548902243287485_n.jpeg?w=900"
+    :src=trithuc
     caption="Tông đồ tri thức."
 />
 

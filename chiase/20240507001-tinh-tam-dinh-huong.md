@@ -2,7 +2,7 @@
 title: Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Năm 2024
 date: 2024-05-07 00:00:00 +7
 category: ongoi
-preview_image: /images/chiase/441178423_828618159297083_8275968610669861573_n.jpeg?w=900
+preview_image: 441178423_828618159297083_8275968610669861573_n.jpeg
 prev:
   text: Ngày 27/04, Thánh Phê-rô Canisio SJ, LM, TSHT - Bổn mạng cộng đoàn Sao Mai
   link: /chiase/20240427001-bon-mang-cong-doan-sao-mai
@@ -11,8 +11,12 @@ prev:
 #   link:
 ---
 
+<script setup>
+import tinhtam from "/images/chiase/441178423_828618159297083_8275968610669861573_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/441178423_828618159297083_8275968610669861573_n.jpeg?w=900"
+    :src=tinhtam
     caption="Tĩnh tâm định hướng ơn gọi Dòng Tên Tháng Năm 2024."
 />
 

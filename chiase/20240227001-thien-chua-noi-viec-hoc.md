@@ -2,7 +2,7 @@
 title: Thiên Chúa nơi việc học
 date: 2024-02-27 00:00:00 +7
 category: trithuc
-preview_image: /images/chiase/430144928_785196793639220_8222540821232631816_n.jpeg?w=900
+preview_image: 430144928_785196793639220_8222540821232631816_n.jpeg
 prev:
   text: Lắng nghe
   link: /chiase/20240226001-langnghe
@@ -11,8 +11,12 @@ next:
   link: /chiase/20240306001-tinh-tam-dinh-huong
 ---
 
+<script setup>
+import trithuc from "/images/chiase/430144928_785196793639220_8222540821232631816_n.jpeg?w=900";
+</script>
+
 <Figure 
-    src="/images/chiase/430144928_785196793639220_8222540821232631816_n.jpeg?w=900"
+    :src=trithuc
     caption="Khám phá dung mạo Thiên Chúa qua tri thức."
 />
 
