@@ -40,18 +40,21 @@ jobs:
         run: npm ci # or pnpm install / yarn install / bun install
       - name: Build with VitePress
         run: npm run build # or pnpm docs:build / yarn docs:build / bun run docs:build
-      - name: Move to artifact
-        run: cd .vitepress/dist
-      - name: Checkout code
-        uses: actions/checkout@v2
+
       - name: Set up Git
         run: |
           git config user.email "mkhoi1998@gmail.com"
           git config user.name "mk"
+      - name: Clone web repo
+        run: git clone git@github.com:ungsinhdongten/ungsinhdongten.github.io.git
+      - name: Move to repo
+        run: cd ungsinhdongten.github.io
+      - name: copy artifact
+        run: cp -a .vitepress/dist/. .
       - name: Commit artifact
         run: |
           git add .
-          git commit -m "Create version file"
+          git commit -m "update website"
       - name: Upload artifact
         env:
           GH_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
