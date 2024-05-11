@@ -2,7 +2,7 @@
 title: Ngày tri ân quý ân nhân của anh em ứng sinh miền Bắc
 date: 2024-01-15 01:00:00 +7
 category: nhaungsinh
-preview_image: NHI_0533.jpg
+preview_image: taon1.jpg
 prev:
   text: Nghe, Nhìn Và Cảm Thấy Niềm Vui Của Sự Sống
   link: /chiase/20240115001-nghe-nhin-va-cam-thay-niem-vui-cua-su-song
@@ -12,7 +12,7 @@ next:
 ---
 
 <script setup>
-import giamdoc from "/images/chiase/NHI_0533.jpg?w=900";
+import giamdoc from "/images/chiase/taon1.jpg?w=900";
 </script>
 <Figure 
     :src=giamdoc
