@@ -51,12 +51,12 @@ jobs:
           git config user.name "mk"
       - name: Clone web repo
         run: git clone https://mkhoi1998:${GH_TOKEN}@github.com/ungsinhdongten/ungsinhdongten.github.io.git
+      - name: Move to repo
+        run: cd ungsinhdongten.github.io
       - name: Pull latest
         run: |
           git checkout main
           git pull origin main
-      - name: Move to repo
-        run: cd ungsinhdongten.github.io
       - name: copy artifact
         run: cp -a .vitepress/dist/. .
       - name: Commit artifact
