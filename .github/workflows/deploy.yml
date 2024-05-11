@@ -57,6 +57,8 @@ jobs:
         run: |
           git add .
           git commit -m "update website"
+      - name: Clean up
+        run: git config --unset-all http.https://github.com/.extraheader
       - name: Upload artifact
         run: |
           git push https://mkhoi1998:${GH_TOKEN}@github.com/ungsinhdongten/ungsinhdongten.github.io.git main
