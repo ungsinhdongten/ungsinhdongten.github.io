@@ -5,7 +5,6 @@ title: Dòng Tên
 <script setup>
 import founding from '/images/dongten/founding.jpeg?w=900';
 import linhthao from '/images/dongten/lt.jpeg?w=900';
-import thanhle from '/images/dongten/IMG_1340.jpg?w=900';
 import giang from '/images/dongten/ht.jpeg?w=900';
 import sinhvien from '/images/dongten/sinhvien.jpeg?w=900';
 </script>
@@ -39,8 +38,6 @@ Lối sống và cung cách hành xử của các Giê-su hữu thấm nhuần l
 Chính lòng khao khát muốn nên giống Đức Giê-su vác thập giá trong mọi sự và muốn cùng với Đức Giê-su Ki-tô lao tác đã làm cho các Giê-su hữu trở nên những người bạn trong Đức Ki-tô, và nối kết họ thành một thân thể tông đồ với đức vâng phục làm nền tảng – vâng phục Đức Giáo Hoàng, Bề Trên Tổng Quyền và các Bề Trên hợp pháp – với cùng một cảm thức với Giáo Hội để luôn tìm điều hơn (magis) cho Vinh Danh Chúa, để phục vụ Giáo Hội và mang ích lợi cho con người.
 
 ## Sứ mạng
-
-<Figure :src="thanhle" caption="Thánh Lễ trên Địa Cầu - Pierre Teilhard De Chardin S.J." />
 
 Phục vụ đức tin nối kết với thăng tiến công bình của Nước Thiên Chúa trong đối thoại với các nền văn hoá và các tôn giáo khác. Trong bối cảnh của một thế giới đang bị ảnh hưởng bởi trào lưu toàn cầu hóa, dẫn tới gia tăng những mâu thuẫn và xung đột, sứ mạng này được thực hiện ngang qua nhiều sứ vụ như giảng Linh Thao, tông đồ xã hội, mục vụ giới trẻ, suy tư và giảng dạy thần học, truyền thông… nhằm thiết lập những nhịp cầu hòa giải giữa con người với Thiên Chúa, giữa con người với nhau và với môi trường thiên nhiên.
 

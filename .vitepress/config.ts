@@ -27,7 +27,7 @@ export default defineConfig({
         nav: [
             { text: 'Dòng Tên', link: '/dongten' },
             { text: 'Nhà Ứng Sinh', link: '/nhaungsinh' },
-            { text: 'Ban huấn huyện', link: '/bhl' },
+            { text: 'Ban huấn huyện', link: '/banhuanluyen' },
             { text: 'Chia sẻ', link: '/chiase' },
             { text: 'Liên hệ', link: '/lienhe' }
         ],
