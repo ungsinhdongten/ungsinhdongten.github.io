@@ -30,4 +30,4 @@ Ngày nay, còn nhiều dân tộc chưa biết Chúa hoặc biết Ngài cách 
 
 *hãy đến rồi chúng ta sẽ có:*
 
-*NHIỀU ĐỐM LỬA, MỘT NGỌN LỬA: NHIỀU CÂU CHUYỆN, MỘT LỊCH SỬ!*
+*NHIỀU ĐỐM LỬA, MỘT NGỌN LỬA: NHIỀU CÂU CHUYỆN, MỘT LỊCH SỬ !*
