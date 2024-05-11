@@ -59,4 +59,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
         run: |
-          git push https://USERNAME:${GH_TOKEN}@github.com/${{ secrets.owner }}/${{ secrets.repo }}.git main
+          git push https://mkhoi1998:${GH_TOKEN}@github.com/${{ secrets.owner }}/${{ secrets.repo }}.git main
