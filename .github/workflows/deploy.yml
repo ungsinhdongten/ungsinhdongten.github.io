@@ -53,8 +53,6 @@ jobs:
         run: git clone https://mkhoi1998:${GH_TOKEN}@github.com/ungsinhdongten/ungsinhdongten.github.io.git
       - name: Move to repo
         run: cd ungsinhdongten.github.io
-      - name: Pull latest
-        run: git pull origin main
       - name: copy artifact
         run: cp -a .vitepress/dist/. .
       - name: Commit artifact
@@ -63,4 +61,4 @@ jobs:
           git commit -m "update website"
       - name: Upload artifact
         run: |
-          git push https://mkhoi1998:${GH_TOKEN}@github.com/ungsinhdongten/ungsinhdongten.github.io.git main
+          git push  --set-upstream -f https://mkhoi1998:${GH_TOKEN}@github.com/ungsinhdongten/ungsinhdongten.github.io.git main
