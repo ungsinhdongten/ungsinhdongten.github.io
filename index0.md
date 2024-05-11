@@ -1,4 +1,0 @@
----
-layout: start
-footer: true
----
