@@ -43,23 +43,20 @@ jobs:
         run: npm ci # or pnpm install / yarn install / bun install
       - name: Build with VitePress
         run: npm run build # or pnpm docs:build / yarn docs:build / bun run docs:build
+      - name: Move to artifact
+        run: cd .vitepress/dist
+      - name: Set up Git
+        run: |
+          git config user.email "mkhoi1998@gmail.com"
+          git config user.name "mk"
+      - name: Create version file
+        run: echo "1.0.0" > VERSION
+      - name: Commit version file
+        run: |
+          git add .
+          git commit -m "Create version file"
       - name: Upload artifact
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: main
-          files: docs/.vitepress/dist
-          repository: ${{ secrets.owner }}/${{ secrets.repo }}
-          token: ${{ secrets.CUSTOM_TOKEN }}
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        env:
+          GH_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+        run: |
+          git push https://USERNAME:${GH_TOKEN}@github.com/${{ secrets.owner }}/${{ secrets.repo }}.git main
