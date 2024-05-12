@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.iYlBf-hB.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"start","footer":true},"headers":[],"relativePath":"index0.md","filePath":"index0.md"}'),r={name:"index0.md"};function o(n,s,c,d,i,p){return t(),a("div")}const m=e(r,[["render",o]]);export{f as __pageData,m as default};
